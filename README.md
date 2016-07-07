@@ -1,17 +1,16 @@
 # AllTheThings
-Includes 5 Known Application Whitelisting/ Applicaoitn Control Bypass Techiniques in One File.
 
+###Includes 5 Known Application Whitelisting/ Applicaoitn Control Bypass Techiniques in One File.
 
-Includes 5 Known Application Whitelisting/ Applicaoitn Control Bypass Techiniques in One File.
-1. InstallUtil.exe
+###1. InstallUtil.exe
 
-2. Regasm.exe
+###2. Regasm.exe
 
-3. Regsvcs.exe
+###3. Regsvcs.exe
 
-4. regsvr32.exe
+###4. regsvr32.exe
 
-5. rundll32.exe
+###5. rundll32.exe
 
 
 
