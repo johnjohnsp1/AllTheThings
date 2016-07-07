@@ -4,9 +4,9 @@
 
 ###1. InstallUtil.exe
 
-###2. Regasm.exe
+###2. Regsvcs.exe
 
-###3. Regsvcs.exe
+###3. Regasm.exe
 
 ###4. regsvr32.exe
 
