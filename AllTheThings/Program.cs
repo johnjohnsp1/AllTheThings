@@ -35,8 +35,8 @@ Usage:
     x64 C:\Windows\Microsoft.NET\Framework64\v4.0.30319\regasm.exe /U AllTheThings.dll
 
 4. 
-    regsvr32 /s  /u evil.dll -->Calls DllUnregisterServer
-    regsvr32 /s evil.dll --> Calls DllRegisterServer
+    regsvr32 /s  /u AllTheThings.dll -->Calls DllUnregisterServer
+    regsvr32 /s AllTheThings.dll --> Calls DllRegisterServer
 5. 
     rundll32 AllTheThings.dll,EntryPoint
     
