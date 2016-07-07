@@ -32,9 +32,9 @@
 
 ##4. 
 
-    regsvr32 /s  /u evil.dll -->Calls DllUnregisterServer
+    regsvr32 /s  /u AllTheThings.dll -->Calls DllUnregisterServer
 
-    regsvr32 /s evil.dll --> Calls DllRegisterServer
+    regsvr32 /s AllTheThings.dll --> Calls DllRegisterServer
     
 ##5. 
 
