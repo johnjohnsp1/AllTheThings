@@ -1,0 +1,6 @@
+c:\users\subtee\documents\visual studio 2015\Projects\AllTheThings\AllTheThings\bin\Debug\AllTheThings.exe.config
+c:\users\subtee\documents\visual studio 2015\Projects\AllTheThings\AllTheThings\bin\Debug\AllTheThings.exe
+c:\users\subtee\documents\visual studio 2015\Projects\AllTheThings\AllTheThings\bin\Debug\AllTheThings.pdb
+c:\users\subtee\documents\visual studio 2015\Projects\AllTheThings\AllTheThings\obj\Debug\AllTheThings.csprojResolveAssemblyReference.cache
+c:\users\subtee\documents\visual studio 2015\Projects\AllTheThings\AllTheThings\obj\Debug\AllTheThings.exe
+c:\users\subtee\documents\visual studio 2015\Projects\AllTheThings\AllTheThings\obj\Debug\AllTheThings.pdb

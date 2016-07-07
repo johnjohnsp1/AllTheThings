@@ -1,0 +1,5 @@
+c:\users\subtee\documents\visual studio 2015\Projects\AllTheThings\AllTheThings\bin\x64\Release\AllTheThings.pdb
+c:\users\subtee\documents\visual studio 2015\Projects\AllTheThings\AllTheThings\obj\x64\Release\AllTheThings.pdb
+c:\users\subtee\documents\visual studio 2015\Projects\AllTheThings\AllTheThings\bin\x64\Release\AllTheThings.dll.config
+c:\users\subtee\documents\visual studio 2015\Projects\AllTheThings\AllTheThings\bin\x64\Release\AllTheThings.dll
+c:\users\subtee\documents\visual studio 2015\Projects\AllTheThings\AllTheThings\obj\x64\Release\AllTheThings.dll
