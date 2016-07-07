@@ -16,8 +16,8 @@ For Testing Binary Application Whitelisting Controls
 
 Includes 5 Known Application Whitelisting/ Applicaoitn Control Bypass Techiniques in One File.
 1. InstallUtil.exe
-2. Regasm.exe
-3. Regsvcs.exe
+2. Regsvcs.exe
+3. Regasm.exe
 4. regsvr32.exe 
 5. rundll32.exe
 
