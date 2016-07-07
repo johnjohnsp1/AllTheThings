@@ -1,6 +1,6 @@
 # AllTheThings
 
-###Includes 5 Known Application Whitelisting/ Application Control Bypass Techiniques in One File.
+###Includes 5 Known Application Whitelisting/ Application Control Bypass Techniques in One File.
 
 ###1. InstallUtil.exe
 
