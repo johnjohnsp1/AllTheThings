@@ -9,7 +9,7 @@ Includes 5 Known Application Whitelisting/ Applicaoitn Control Bypass Techinique
 
 3. Regsvcs.exe
 
-4. regsvr32.exe . 
+4. regsvr32.exe
 
 5. rundll32.exe
 
